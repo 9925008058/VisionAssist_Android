@@ -1,53 +1,20 @@
-# VisionAssist 🔍
 
-Real-time AI-powered assistance for visually impaired users using on-device computer vision.
+https://github.com/user-attachments/assets/8d3b1eda-dab9-4d4d-b243-bb7638173ee4
+## VisionAssist Android:
+An AI-powered Android app that helps visually impaired users
+navigate the world through real-time object detection,
+and audio feedback — built with Google ML Kit.
 
-## Overview
+### Features:
+- Real-time object detection with bounding boxes & speech output
+- image recognition with Text-to-Speech feedback
+- Works offline — no internet required for core features
 
-VisionAssist uses the smartphone camera and machine learning to help visually impaired users understand their surroundings. The application can detect objects, read text, and provide spoken feedback in real time.
+### Tech Stack:
+Android (Java) · Google ML Kit · CameraX · TTS API
 
-## Features
+### Demo:
 
-* Real-time object detection
-* OCR text recognition
-* Text-to-speech feedback
-* Offline-first processing
-* Accessibility-focused design
 
-## Tech Stack
-
-| Component    | Technology     |
-| ------------ | -------------- |
-| Language     | Kotlin         |
-| IDE          | Android Studio |
-| Vision       | Google ML Kit  |
-| Camera       | CameraX        |
-| Architecture | MVVM           |
-| Backend      | Firebase       |
-
-## Project Structure
-
-* Camera Processing
-* Object Detection
-* OCR Module
-* Text-to-Speech Engine
-* Accessibility Layer
-
-## Installation
-
-1. Clone the repository
-2. Open in Android Studio
-3. Sync Gradle
-4. Connect an Android device
-5. Run the application
-
-## Future Enhancements
-
-* Currency detection
-* Indoor navigation assistance
-* Enhanced scene understanding
-* Multilingual voice support
-
-## Impact
-
-This project aims to improve accessibility and independence for visually impaired users by providing real-time audio descriptions of their environment.
+### Run locally:
+git clone → open in Android Studio → Run on device/emulator
