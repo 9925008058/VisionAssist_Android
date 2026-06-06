@@ -1,6 +1,4 @@
 # VisionAssist Android
-
-[![Build Status](https://github.com/SHWETHAA-US/VisionAssist_Android/workflows/Android%20CI%2FCD%20Pipeline/badge.svg)](https://github.com/SHWETHAA-US/VisionAssist_Android/actions)
 [![Kotlin](https://img.shields.io/badge/Kotlin-44.4%25-7F52FF?logo=kotlin)](https://kotlinlang.org)
 [![Java](https://img.shields.io/badge/Java-55.6%25-007396?logo=java)](https://www.java.com)
 
@@ -41,7 +39,8 @@ Enable visually impaired individuals to navigate independently with confidence b
 | **State Management** | Kotlin Coroutines · StateFlow | Async operations, reactive UI |
 | **Testing** | JUnit 4, Espresso, Robolectric | Unit & instrumented tests |
 | **CI/CD** | GitHub Actions | Automated testing & builds |
-
+## Demo:
+https://github.com/user-attachments/assets/edf363ed-7b7d-41a0-8d3e-4c2654b28126
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -300,7 +299,7 @@ Examples:
 |-----------|--------|--------|
 | Core features (detection, OCR, TTS) | ✅ Complete | v1.0 |
 | Firebase Authentication | ✅ Complete | v1.0 |
-| CI/CD Pipeline | ✅ Complete | v1.0 |
+| CI/CD Pipeline | 🔄 In Progress | v1.0 |
 | Kotlin Migration | 🔄 In Progress | v1.1 |
 | UI/Instrumented Tests | 🔄 In Progress | v1.1 |
 | Play Store Release | 📋 Planned | Q3 2026 |
